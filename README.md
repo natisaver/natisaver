@@ -1,7 +1,5 @@
 ### ✨ Greetings 👋 ✨
-[![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=natisaver)](https://github.com/anuraghazra/github-readme-stats)
-
-**natisaver/natisaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Nat's GitHub stats](https://github-readme-stats.vercel.app/api?username=natisaver&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 I am Nathaniel, a CS student and aspiring software engineer.
 
