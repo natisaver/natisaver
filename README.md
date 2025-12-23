@@ -5,5 +5,5 @@
 I am Nathaniel
 - 🌱 I’m open to fulltime backend opportunities
 - 🏀 I love Basketball and Gaming
-- 📫 Contact me on linkedin for my resume and contacts!
+- 📫 Contact me on linkedin for my resume
 
